@@ -4,18 +4,25 @@
 
 ### International projects
 [Ultima1](https://bndnt.github.io/ultimamain01/) 
+
+
 <img src="images/ultimamain.jpg?raw=true"/>
 
 ---
 [Ultima2](https://bndnt.github.io/ultima01/) 
+
+
 <img src="images/ultima.jpg?raw=true"/>
 
 ---
 [Ultima3](https://bndnt.github.io/ltimaPM01/) 
+
+
 <img src="images/ultimapm.jpg?raw=true"/>
 
 ---
 [SweetFields](https://bndnt.github.io/sweetfields1/)
+
 <img src="images/sf.png?raw=true"/>
 #### Private Office pages
 
@@ -37,6 +44,8 @@
 
 ---
 [SDLG](https://bndnt.github.io/sdlg01/)
+
+
 <img src="images/sdlg.jpg?raw=true"/>
 #### Link to all pages
 
