@@ -12,7 +12,7 @@
 [Ultima2](https://bndnt.github.io/ultima01/) 
 
 
-<img src="images/ultima.jpg?raw=true"/>
+<img src="images/ultima2.jpg?raw=true"/>
 
 ---
 [Ultima3](https://bndnt.github.io/ltimaPM01/) 
