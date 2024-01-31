@@ -5,7 +5,7 @@
 ### International projects
 
 [SweetFields](/sample_page)
-<img src="images/sf1.png?raw=true"/>
+<img src="images/sf.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
