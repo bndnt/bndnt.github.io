@@ -29,8 +29,8 @@
 <img src="images/ultima.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Ultima](https://bndnt.github.io/ltimaPM01/) 
+<img src="images/ultimapm.jpg?raw=true"/>
 
 ---
 
