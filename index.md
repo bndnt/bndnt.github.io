@@ -6,6 +6,23 @@
 
 [SweetFields](https://bndnt.github.io/sweetfields1/)
 <img src="images/sf.png?raw=true"/>
+#### Private Office pages
+
+- [Notification page](https://bndnt.github.io/sweetfields1/notification-page.html)
+- [Plants Purchase](https://bndnt.github.io/sweetfields1/plants-purchase.html)
+- [Private Office Settings](https://bndnt.github.io/sweetfields1/private-office-settings.html)
+- [Private Office Calendar](https://bndnt.github.io/sweetfields1/private-office-calendar.html)
+- [Private Office Clone Shop](https://bndnt.github.io/sweetfields1/private-office-clone-shop.html)
+- [Private Office Create Ticket](https://bndnt.github.io/sweetfields1/private-office-create-ticket.html)
+- [Private Office Grower Statement](https://bndnt.github.io/sweetfields1/private-office-grower-statement.html)
+- [Private Office History](https://bndnt.github.io/sweetfields1/private-office-history.html)
+- [Private Office Order History](https://bndnt.github.io/sweetfields1/private-office-order-history.html)
+- [Private Office Payments](https://bndnt.github.io/sweetfields1/private-office-payments.html)
+- [Private Office Security](https://bndnt.github.io/sweetfields1/private-office-security.html)
+- [Private Office Support](https://bndnt.github.io/sweetfields1/private-office-support.html)
+- [Private Office Tickets](https://bndnt.github.io/sweetfields1/private-office-tickets.html)
+- [Private Office Warehouse](https://bndnt.github.io/sweetfields1/private-office-warehouse.html)
+- [Support Chat](https://bndnt.github.io/sweetfields1/support-chat.html)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
