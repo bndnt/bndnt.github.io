@@ -47,7 +47,6 @@
 
 
 <img src="images/sdlg.jpg?raw=true"/>
-#### Link to all pages
 
 - [All pages](https://bndnt.github.io/sdlg01//all-pages.html)
 
