@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Valeriia Makushchenko # your name (or website title) here
+logo: "/images/photo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Experienced ukrainian front-end developer with 2+ years of creative  problem-solving. 
   <br><br>
-  Second description 
+  Dedicated to continuous professional growth and  discovering innovative approaches.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/valeriia-makushchenko-a83994279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
