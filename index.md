@@ -37,7 +37,7 @@
 
 ---
 [SDLG](https://bndnt.github.io/sdlg01/)
-<img src="images/sdlg.png?raw=true"/>
+<img src="images/sdlg.jpg?raw=true"/>
 #### Link to all pages
 
 - [All pages](https://bndnt.github.io/sdlg01//all-pages.html)
