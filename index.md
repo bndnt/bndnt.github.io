@@ -4,7 +4,7 @@
 
 ### International projects
 
-[SweetFields](/sample_page)
+[SweetFields](https://bndnt.github.io/sweetfields1/)
 <img src="images/sf.png?raw=true"/>
 
 ---
