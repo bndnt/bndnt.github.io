@@ -26,7 +26,7 @@
 
 ---
 [Ultima](https://bndnt.github.io/ultima01/)
-<img src="ultima.jpg?raw=true"/>
+<img src="images/ultima.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
