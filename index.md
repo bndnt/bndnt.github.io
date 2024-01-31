@@ -25,8 +25,8 @@
 - [Support Chat](https://bndnt.github.io/sweetfields1/support-chat.html)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Ultima](https://bndnt.github.io/ultima01/)
+<img src="ultima.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
