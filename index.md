@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### International projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[SweetFields](/sample_page)
+<img src="images/sf1.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
